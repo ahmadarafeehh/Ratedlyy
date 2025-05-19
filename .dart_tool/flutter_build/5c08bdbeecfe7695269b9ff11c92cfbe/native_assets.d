@@ -1,0 +1,1 @@
+ F:\\Bussiness\\Ratedly\\Andriod\\Ratedly\\.dart_tool\\flutter_build\\5c08bdbeecfe7695269b9ff11c92cfbe\\native_assets.yaml: 

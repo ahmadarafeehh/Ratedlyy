@@ -1,86 +1,134 @@
 {
   "images": [
     {
-      "size": "16x16",
-      "idiom": "mac",
-      "filename": "16x16.png",
-      "scale": "1x"
-    },
-    {
-      "size": "24x24",
-      "idiom": "mac",
-      "filename": "24x24.png",
-      "scale": "1x"
-    },
-    {
-      "size": "32x32",
-      "idiom": "mac",
-      "filename": "32x32.png",
-      "scale": "1x"
-    },
-    {
-      "size": "48x48",
-      "idiom": "mac",
-      "filename": "48x48.png",
-      "scale": "1x"
-    },
-    {
-      "size": "64x64",
-      "idiom": "mac",
-      "filename": "64x64.png",
-      "scale": "1x"
-    },
-    {
-      "size": "128x128",
-      "idiom": "mac",
-      "filename": "128x128.png",
-      "scale": "1x"
-    },
-    {
-      "size": "256x256",
-      "idiom": "mac",
-      "filename": "256x256.png",
-      "scale": "1x"
-    },
-    {
-      "size": "512x512",
-      "idiom": "mac",
-      "filename": "512x512.png",
-      "scale": "1x"
-    },
-    {
-      "size": "20x20",
+      "filename": "AppIcon@2x.png",
       "idiom": "iphone",
-      "filename": "20x20.png",
-      "scale": "1x"
+      "scale": "2x",
+      "size": "60x60"
     },
     {
-      "size": "29x29",
+      "filename": "AppIcon@3x.png",
       "idiom": "iphone",
-      "filename": "29x29.png",
-      "scale": "1x"
+      "scale": "3x",
+      "size": "60x60"
     },
     {
-      "size": "40x40",
+      "filename": "AppIcon~ipad.png",
+      "idiom": "ipad",
+      "scale": "1x",
+      "size": "76x76"
+    },
+    {
+      "filename": "AppIcon@2x~ipad.png",
+      "idiom": "ipad",
+      "scale": "2x",
+      "size": "76x76"
+    },
+    {
+      "filename": "AppIcon-83.5@2x~ipad.png",
+      "idiom": "ipad",
+      "scale": "2x",
+      "size": "83.5x83.5"
+    },
+    {
+      "filename": "AppIcon-40@2x.png",
       "idiom": "iphone",
-      "filename": "40x40.png",
-      "scale": "1x"
+      "scale": "2x",
+      "size": "40x40"
     },
     {
-      "size": "57x57",
+      "filename": "AppIcon-40@3x.png",
       "idiom": "iphone",
-      "filename": "57x57.png",
-      "scale": "1x"
+      "scale": "3x",
+      "size": "40x40"
     },
     {
-      "size": "1024x1024",
+      "filename": "AppIcon-40~ipad.png",
+      "idiom": "ipad",
+      "scale": "1x",
+      "size": "40x40"
+    },
+    {
+      "filename": "AppIcon-40@2x~ipad.png",
+      "idiom": "ipad",
+      "scale": "2x",
+      "size": "40x40"
+    },
+    {
+      "filename": "AppIcon-20@2x.png",
+      "idiom": "iphone",
+      "scale": "2x",
+      "size": "20x20"
+    },
+    {
+      "filename": "AppIcon-20@3x.png",
+      "idiom": "iphone",
+      "scale": "3x",
+      "size": "20x20"
+    },
+    {
+      "filename": "AppIcon-20~ipad.png",
+      "idiom": "ipad",
+      "scale": "1x",
+      "size": "20x20"
+    },
+    {
+      "filename": "AppIcon-20@2x~ipad.png",
+      "idiom": "ipad",
+      "scale": "2x",
+      "size": "20x20"
+    },
+    {
+      "filename": "AppIcon-29.png",
+      "idiom": "iphone",
+      "scale": "1x",
+      "size": "29x29"
+    },
+    {
+      "filename": "AppIcon-29@2x.png",
+      "idiom": "iphone",
+      "scale": "2x",
+      "size": "29x29"
+    },
+    {
+      "filename": "AppIcon-29@3x.png",
+      "idiom": "iphone",
+      "scale": "3x",
+      "size": "29x29"
+    },
+    {
+      "filename": "AppIcon-29~ipad.png",
+      "idiom": "ipad",
+      "scale": "1x",
+      "size": "29x29"
+    },
+    {
+      "filename": "AppIcon-29@2x~ipad.png",
+      "idiom": "ipad",
+      "scale": "2x",
+      "size": "29x29"
+    },
+    {
+      "filename": "AppIcon-60@2x~car.png",
+      "idiom": "car",
+      "scale": "2x",
+      "size": "60x60"
+    },
+    {
+      "filename": "AppIcon-60@3x~car.png",
+      "idiom": "car",
+      "scale": "3x",
+      "size": "60x60"
+    },
+    {
+      "filename": "AppIcon~ios-marketing.png",
       "idiom": "ios-marketing",
-      "filename": "1024x1024.png",
-      "scale": "1x"
+      "scale": "1x",
+      "size": "1024x1024"
     }
   ],
   "info": {
-    "version": 1,
-    "author": "xcode"
+    "author": "iconkitchen",
+    "version": 1
   }
 }

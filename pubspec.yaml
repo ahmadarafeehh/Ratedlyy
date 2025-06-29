@@ -1,6 +1,6 @@
 name: Ratedly
 description: A new Flutter project.
-version: 1.0.2+132
+version: 1.0.0+2
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
@@ -24,23 +24,21 @@ dependencies:
   path_provider: ^2.1.1
   image: ^4.0.17
   async: ^2.11.0
-  flutter_launcher_icons: ^0.14.3
   flutter_image_compress: ^2.0.0
   shared_preferences: ^2.2.2
+  firebase_messaging: ^15.2.7
+  flutter_local_notifications: ^19.3.0
+
+
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^2.0.2
 
-flutter_icons:
-  android: true
-  ios: true
-  image_path: "assets/logo/22.png"
-  
-
 flutter:
   uses-material-design: true
+
   assets:
     - assets/logo/22.png
     - assets/logo/23.png
